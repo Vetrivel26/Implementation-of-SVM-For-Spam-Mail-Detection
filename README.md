@@ -53,14 +53,19 @@ accuracy
 ![SVM For Spam Mail Detection](sam.png)
 
 ### data.head()
+![1](https://user-images.githubusercontent.com/95363138/174320744-ebacec80-e4bf-4cb5-a417-46ff092c24bb.png)
 
 ### data.info()
+![2](https://user-images.githubusercontent.com/95363138/174320764-82c55d1c-e06f-4905-ba66-f55517c1a332.png)
 
 ### Data.isnull().sum()
+![3](https://user-images.githubusercontent.com/95363138/174320772-8fba71ab-2332-4e0d-9632-9881a622499a.png)
 
 ### y_pred
+![4](https://user-images.githubusercontent.com/95363138/174320792-6ce5a00c-aaa2-41ec-a41e-f06ba5e60972.png)
 
 ### accuracy
+![5](https://user-images.githubusercontent.com/95363138/174320816-40f3197c-d14d-4027-a931-43aa4c8464cc.png)
 
 
 
